@@ -2,8 +2,9 @@
 <suite name="POM Practice Suite" verbose="1">
     <test name="Scenarios">
         <classes>
-            <class name="com.org.com.globant.tests.PurchaseProductTest"/>
-            <class name="com.org.com.globant.tests.RemoveCartItemsTest"/>
+            <class name="org.com.globant.tests.PurchaseProductTest"/>
+            <class name="org.com.globant.tests.RemoveCartItemsTest"/>
+            <class name="org.com.globant.tests.LogoutTest"/>
         </classes>
     </test>
 </suite>
