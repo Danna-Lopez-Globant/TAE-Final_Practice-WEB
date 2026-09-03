@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="POM Practice Suite" verbose="1">
+    <test name="Scenarios">
+        <classes>
+            <class name="com.org.com.globant.tests.PurchaseProductTest"/>
+            <class name="com.org.com.globant.tests.RemoveCartItemsTest"/>
+        </classes>
+    </test>
+</suite>
